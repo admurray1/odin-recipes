@@ -1,0 +1,1 @@
+A basic recipe website to practice basic html knowledge, including links, images, lists, and basic text manipulation. This project will showcase a base knowledge of html.
