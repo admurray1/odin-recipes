@@ -1,0 +1,43 @@
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h1, h2 {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.link {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.text {
+    font-family: Garamond, "Times New Roman", serif;
+    font-size: 18px;
+}
+
+.description h2 {
+    background-color: rgb(173, 216, 230);
+}
+
+.ingredients h2 {
+    background-color: rgb(144,238,144);
+}
+
+.steps h2 {
+    background-color: rgb(219, 124, 128);
+}
+
+.list.text {
+    background-color: rgb(189, 174, 174);
+    color: brown;
+}
