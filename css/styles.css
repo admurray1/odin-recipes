@@ -49,3 +49,20 @@ h1, h2 {
     background-color: black;
     color: limegreen;
 }
+
+.home-header {
+    padding: 20px;
+    margin: 0 auto 15px;
+    width: 500px;
+}
+
+.links .link {
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-right: auto;
+    margin-left: 20px;
+    background-color: lightblue;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+}
