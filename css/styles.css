@@ -5,6 +5,7 @@ img {
 
 h1 {
     font-size: 36px;
+    background-color: beige;
 }
 
 h2 {
@@ -13,11 +14,13 @@ h2 {
 
 h1, h2 {
     font-family: Verdana, Arial, sans-serif;
+    text-align: center;
 }
 
 .link {
     font-family: Arial, sans-serif;
     font-size: 20px;
+    font-weight: 700;
 }
 
 .text {
@@ -37,7 +40,12 @@ h1, h2 {
     background-color: rgb(219, 124, 128);
 }
 
-.list.text {
+.list {
     background-color: rgb(189, 174, 174);
     color: brown;
+}
+
+.steps .list {
+    background-color: black;
+    color: limegreen;
 }
